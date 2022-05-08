@@ -1,10 +1,10 @@
 Hi DelVirus user! What's up?
 Before you starting to using DelVirus, there are some things that you need to know...
 
-First, the programm is going to delete all files with specific extensions, like .bat and .vbs
-So, if you have an important file with these extensions, please, save it before using the programm!
+First, the program is going to delete all files with specific extensions, like .bat and .vbs
+So, if you have an important file with these extensions, please, save it before using the program!
 
-Second, of course the programm it's made with C++, so you can run it in Windows OS or you can run it 
+Second, of course the program it's made with C++, so you can run it in Windows OS or you can run it 
 with a compile for Linux...
 
 ########################################################################################
