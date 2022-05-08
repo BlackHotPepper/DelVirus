@@ -1,0 +1,22 @@
+Hi DelVirus user! What's up?
+Before you starting to using DelVirus, there are some things that you need to know...
+
+First, the programm is going to delete all files with specific extensions, like .bat and .vbs
+So, if you have an important file with these extensions, please, save it before using the programm!
+
+Second, of course the programm it's made with C++, so you can run it in Windows OS or you can run it 
+with a compile for Linux...
+
+########################################################################################
+
+Ei usuário(a) do DelVirus! Tudo bom?
+Antes de iniciar o uso do programa, tem certas coisas que você precisa saber...
+
+Primeiro, o programa vai deletar todos os arquivos com extensoes especificas, como .bat e .vbs
+Então, caso você tenha algum arquivo importante com essas extensões, por favor, salve-o antes de usar o programa!
+
+Segundo, é obvio que o programa foi feito em C++, então você pode roda-lo no sistema operacional Windows, ou
+roda-lo com um compilador no Linux...
+
+
+ *   Thanks!   *
