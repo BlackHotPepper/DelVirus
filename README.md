@@ -17,3 +17,13 @@
   <p> Go to GitHub Windows install page and download it: https://gitforwindows.org/</p>
   <p> (Você pode baixa-lo como um arquivo zipado, e então extraí-lo com o WinRar, ou você pode usar o Git Bash, baixando-o para Windows )</p>
 </div>
+
+<div>
+  <p> <br> After you did that, you can go to the next stap, download it! For that, type the command below in your Git Bash.</p>
+  <p>(Após ter feito os passos acima, você pode ir para o próximo passo, baixá-lo! Para isso, digite o comando abaixo no seu terminal do Git)</p>
+  
+  ```
+  git clone https://github.com/BlackHotPepper/DelVirus
+  ```
+  
+</div>
