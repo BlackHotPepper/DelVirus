@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	//MENU
+	//BANNER
 	usleep(100000);
 	std::cout << "\n      ___  ___  _     _ _  _  ___  _ _  ___        " << std::endl;
 	usleep(100000);
@@ -19,6 +19,7 @@ int main()
 	int var = 0;
 	std::cout << "____________________________________________________________________________________________________ \n" << std::endl;
 	
+	//INFORMATIONS
 	std::cout << " The program will delete all files with the following extensions:" << std::endl;
 	std::cout << " BAT, VBS, WS, SCR, HTA, PIF, MSI and MSP" << std::endl;
 	std::cout << " If you are aware of any specific files, please save it \n\n" << std::endl;
