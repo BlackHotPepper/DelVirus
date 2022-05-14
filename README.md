@@ -1,4 +1,4 @@
-# DelVirus
+# DelVirus <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <div>
   <p> <h2> 💉A simple and easy virus removal program!💉 </h2> </p>
 </div>
